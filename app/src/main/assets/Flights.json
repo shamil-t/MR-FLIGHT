@@ -1,0 +1,164 @@
+{
+  "Flights": [
+    {
+      "id": 1,
+      "name": "Emirates Air",
+      "desc": "Winner of the World's Best Airline Award 2013 at Paris Air Show, Emirates Air is the largest airways in Middle     East. It has an excellent level of air transport services in all six continents of the world and serves more than     140 destinations of 70 countries on a regular basis. Exotic in-flight cuisine, classy amusement facilities and the     overall services of this leading aviation company are sophisticated and thus make it the winner of more than 400     international awards.",
+      "image": "https://k6u8v6y8.stackpathcdn.com/blog/wp-content/uploads/2014/04/Emirates-Air.jpg",
+      "dest": "Ahmedabad, Bengaluru, Chennai, Delhi, Hyderabad,Kochi, Kolkata, Kozhikode, Mumbai, Thiruvanantapuram.",
+      "site": "https://www.emirates.com/"
+    },
+    {
+      "id": 2,
+      "name": "Lufthansa",
+      "desc": "Deutsche Lufthansa AG or Lufthansa is the flag carrier of Germany. It is the largest airline in Europe in terms     of     overall passengers carried and fleet size. Apart from 18 domestic destinations, this airline is operating services     in 197 international destinations of 78 countries. Lufthansa offers three classes of services on its flights,     i.e.,     First Class, Business Class, Economy Class. On the A-380 Airbus, the passengers of Economy Class can access     internet     service for a fee through Deutsche Telekom.",
+      "image": "https://k6u8v6y8.stackpathcdn.com/blog/wp-content/uploads/2014/04/Lufthansa.jpg",
+      "dest": "Bangalore, Delhi, Mumbai, Chennai and Pune",
+      "site": "https://www.lufthansa.com/"
+    },
+    {
+      "id": 3,
+      "name": "Swiss International Airlines",
+      "desc": "The flag carrier airline of Switzerland, the Swiss International Airlines is a subsidiary of Lufthansa Group and     has its services in a total 76 countries of the continent of Asia, Europe, Africa and America. Zurich Airport is     the     hub of this aviation company as most of the flights operate via Zurich only. There are mainly three lounges in all     its flights i.e., First Lounge, Senator Lounge and Business Lounge. The sophisticated Swiss customary and values     are     reflected in \"personal service\", \"in-depth quality\" and \"typical Swiss hospitality\" of the airline.",
+      "image": "https://k6u8v6y8.stackpathcdn.com/blog/wp-content/uploads/2014/04/swiss-inernational-arilies.jpg",
+      "dest": "Delhi and Mumbai",
+      "site": "https://www.swiss.com/"
+    },
+    {
+      "id": 4,
+      "name": "Singapore Airlines",
+      "desc": "If you are looking for an airbus which can go with your lavish standard of living and let you feel the charm of     flying on a different world, then you must travel in Singapore Airlines. The trendsetter in aviation industry,     this     airplane service is the first to introduce classy services in economy class. Beautiful and smart airhostesses     serve     the travelers with world class care and inflight services. To upgrade the transportation sector to a different     level, the company has invented innovative ideas in its list of services which include satellite-based inflight     telephones, audio and video on demand (AVOD), free headsets, a choice of meals and free drinks in Economy Class     for     the first time in airline industry.",
+      "image": "https://k6u8v6y8.stackpathcdn.com/blog/wp-content/uploads/2014/04/singapore-airlines.jpg",
+      "dest": "Ahmedabad, Pune, Chennai, Goa, Jalandhar,     Kolkata, Delhi, Mumbai, Hyderabad",
+      "site": "https://www.singaporeair.com/"
+    },
+    {
+      "id": 5,
+      "name": "Thai Airways",
+      "desc": "Being the largest airline of Thailand and flag carrier of the country, Thai Airways operates domestic, regional     as     well as intercontinental flights. The home base of this airways is Bangkok from where the flights fly to 71     destinations in 34 countries. It runs one of the longest non-stop commercial flights in the world among which     Bangkok-Log Angeles flight runs non-stop 18 hours. There are mainly four classes of travel, i.e., Royal First     Class,     Royal Silk Class, Premium Economy Class and Economy Class with each class having different bag allowance limit.",
+      "image": "https://k6u8v6y8.stackpathcdn.com/blog/wp-content/uploads/2014/04/thai-airways.jpg",
+      "dest": "Delhi, Bengaluru, Kolkata and Mumbai",
+      "site": "https://www.thaiairways.com/"
+    },
+    {
+      "id": 6,
+      "name": "Malaysia Airlines",
+      "desc": "The winner of Asia's Leading Airline Award in World Travel Awards (WTA) 2013, Malaysia Airlines has been serving     world-tourists for more than 6 decades. One of the top international airways, this company operates flights to 850     destinations in150 countries. Mainly the flights have three classes of travel- First Class, Business Class and     Economy Class. This luxurious airways offer world class services like in-flight shopping from cloud nine, Kids'     corner, in-flight entertainment, chef on call and many more.",
+      "image": "https://k6u8v6y8.stackpathcdn.com/blog/wp-content/uploads/2014/04/Malaysia-Airlines.jpg",
+      "dest": "Bangalore, Chennai, Delhi, Hyderabad, Kochi",
+      "site": "https://www.malaysiaairlines.com/"
+    },
+    {
+      "id": 7,
+      "name": "Qatar Airways",
+      "desc": "Winner of reputed international awards like Best Airline in the World for International Travel 2014 and Best in     Business Travel Awards, Qatar Airways has taken air travelling to a different level. To reach the pinnacle of     excellence in the aviation industry, this prominent airline has introduced outstanding in-flight service, superior     onboard products, and operational excellence. Most of the flights operate to and from Doha. For those travelers     who     spend half of the year away from home and doesn't want to compromise with their comfort, Qatar Airways presents 5     star service.",
+      "image": "https://k6u8v6y8.stackpathcdn.com/blog/wp-content/uploads/2014/04/qatar-airways.jpg",
+      "dest": "Chennai, Ahmedabad, Delhi, Kolkata, Bengaluru,     Mumbai",
+      "site": "https://www.qatarairways.com/"
+    },
+    {
+      "id": 8,
+      "name": "Cathay Pacific Airways",
+      "desc": "Being a Hong Kong based international airline, Cathay Pacific airways has scheduled cargo and passenger services     to     more than 110 destinations in the world. In case of India, regular flights run from Hong Kong to the major cities     of     the country. The level of inflight service, CSR initiatives and commitment to the protection of environment of     this     company has genuinely made Hong Kong a regional transportation hub. Winner of the Best Transpacific Airline Award     in     2013, Cathay Pacific Airways constantly delivers the highest quality services to its travelers.",
+      "image": "https://k6u8v6y8.stackpathcdn.com/blog/wp-content/uploads/2014/04/Cathay-Pacific-Airways.jpg",
+      "dest": "Delhi, Hyderabad, Mumbai, Chennai,     Bengaluru, Kolkata",
+      "site": "https://www.cathaypacific.com/"
+    },
+    {
+      "id": 9,
+      "name": "Turkish Airlines",
+      "desc": "The flag carrier of the Republic of Turkey, Turkish Airlines is a reliable name in the air transport service of     Europe. Mainly three classes of flights are run by this leading airline- Economy Class, Comfort Class and Business     Class. Flight safety, product line, and service quality of this flight are excellent thus winning the confidence     of     global travelers. For the regular fliers, Turkish Airlines offers 'Miles & Smiles' Award Tickets which offers     attractive discounts to make your travel cheaper. For offering the best quality service, the brand has been voted     Europe's Best Airline at the 2013 Skytrax Passengers Choice Awards.",
+      "image": "https://k6u8v6y8.stackpathcdn.com/blog/wp-content/uploads/2014/04/turkish-airlines.jpg",
+      "dest": "Ahmedabad, Bengaluru, Delhi, Kolkata, Madras,Mumbai, Hydearabad",
+      "site": "https://www.turkishairlines.com/"
+    },
+    {
+      "id": 10,
+      "name": "Qantas Airways",
+      "desc": "Flag Carrier Airline of Australia, Qantas Airways is the second oldest airline in the world. The main hub of this     airline is the Sydney Airport and its headquarters are situated at the Qantas Centre in the Mascot suburb. The     brand     has earned its reputation for taking care of the safety of journey, customer friendly services and world class     operational reliability. Moreover the flying art series of aircrafts are designed by the aborigine artists to     bring     out the lively indigenous feel. Experience a different level of air traveling with the four classes of flights of     Qantas Airways i.e., Economy, Premium Economy, Business and First Class.",
+      "image": "https://k6u8v6y8.stackpathcdn.com/blog/wp-content/uploads/2014/04/qantas-airways.jpg",
+      "dest": "Mumbai, Delhi",
+      "site": "https://www.qantas.com/"
+    },
+    {
+      "id": 11,
+      "name": "Korean Air",
+      "desc": "The flag carrier and the largest airline of South Korea, Korean Air is a leading name in international aviation     industry. Providing excellent services to the travelers of 130 cities in 45 countries it has enrolled its name in     the list of top 20 airlines of the world, in terms of the no of passengers carried. Seoul in South Korea is the     headquarter of this airline. Mainly, the flights of this airline offer three classes of services- First Class,     Prestige Class and Economy Class. From ticket booking to in-flight service, each single service is prompt and     efficient.",
+      "image": "https://k6u8v6y8.stackpathcdn.com/blog/wp-content/uploads/2014/04/korean-airlines.jpg",
+      "dest": "Delhi, Mumbai and Chennai",
+      "site": "https://www.koreanair.com/"
+    },
+    {
+      "id": 12,
+      "name": "Air New Zealand",
+      "desc": "If you are travelling to and from New Zealand, better choose Air New Zealand, the Flag Carrier of the country.     This     Auckland based airline has services in 27 domestic and 29 international destinations of 15 countries across the     world. The popularity of the brand reached great heights when it was presented with the Airline of the Year Award     2012. The level of comfort, cuisines offered and the overall in-flight services are appropriate to go with your     taste and class. The flights of this company provides four classes of services in most of its airbuses i.e.,     Business Premier, Business Class, Premium Economy, Economy Class.",
+      "image": "https://k6u8v6y8.stackpathcdn.com/blog/wp-content/uploads/2014/04/air-newzeland.jpg",
+      "dest": "New Delhi and Mumbai",
+      "site": "https://www.airnewzealand.com/"
+    },
+    {
+      "id": 13,
+      "name": "British Airways",
+      "desc": "The flag carrier airline of the United Kingdom, British Airways is the largest airline in terms of fleet size,     international destinations and international flights. The main hub of this airline is the London Heathrow Airport     and the airline is based in Waterside. The company operates some of the most modern fleets in the world and always     takes special care if its level of sophistication in its services. To meet the taste and need of all ranges of     travelers the brand has brought four levels of flight-classes i.e., Economy, Premium Economy, Business and First     Class.",
+      "image": "https://k6u8v6y8.stackpathcdn.com/blog/wp-content/uploads/2014/04/british-airways.jpg",
+      "dest": "Bangalore, Chennai, Delhi, Hyderabad, Mumbai",
+      "site": "https://www.britishairways.com/"
+    },
+    {
+      "id": 14,
+      "name": "China Southern Airlines",
+      "desc": "Asia's largest airline in terms of fleet size, China Southern airlines is a member of the SkyTeam Airline     Alliance.     Highly acknowledged for its in-flight services, this brand operates a fleet of 512 modern airbuses which connect     193     cities in 35 countries & regions all over the world. With a very low record of mishaps since its introduction,     the airline has won the confidence of the world travelers heading to and from China. The level of effort invested     by     the flight staff at each level has improved the overall service of the airbuses and the comfort of the travelers.     To     meet all needs and taste of the travelers most of the flights of this airline has First Class, Business Class,     Premium Economy Class and Economy Class.",
+      "image": "https://k6u8v6y8.stackpathcdn.com/blog/wp-content/uploads/2014/04/China-Southern-Airlines.jpg",
+      "dest": "Mumbai",
+      "site": "https://www.csair.com/"
+    },
+    {
+      "id": 15,
+      "name": "Airasia",
+      "desc": "For the travelers who are looking for a budget flight to travel to far away destinations Airasia is the best     solution. This leading Malaysian company is known worldwide as the best low-cost airline in the world and operates     flights in 100 destinations of 22 countries. All flights of this airline depart from the Low Cost Carrier Terminal of Kuala Lumpur. The flights run by     Airasia     are mostly of Economic Class which offers best quality comfort. There are separate levels in Economy Class i.e.,     Low     Fare, Hi-Flyer, Premium Flat-bed.",
+      "image": "https://k6u8v6y8.stackpathcdn.com/blog/wp-content/uploads/2014/04/air-asia.jpg",
+      "dest": "Bangalore, Chennai, Kochi, Kolkata, Tiruchirapalli",
+      "site": "https://www.airasia.com/"
+    },
+    {
+      "id": 16,
+      "name": "Finnair",
+      "desc": "One of the oldest airlines in the world, Finnair is the Flag Carrier of Finland and the largest airline in the     country. With the stellar record of rare mishaps since its introduction, this airline has rightly got the tag of     one     of the safest airlines in the world. It is a member of the Oneworld Airline Alliance and has its services in 86     destinations in the world. The headquarter of this airline is in Vantaa and Helsinki-Vantaa Airport is its main     hub.     The Finnair operated flights are of Economy Class and never compromises with the comfort of the journey.",
+      "image": "https://k6u8v6y8.stackpathcdn.com/blog/wp-content/uploads/2014/04/finnair.jpg",
+      "dest": "Delhi",
+      "site": "https://www.finnair.com/"
+    },
+    {
+      "id": 17,
+      "name": "KLM",
+      "desc": "Koninklijke Luchtvaart Maatschappij N.V. in short KLM is the flag carrier airline of the Netherlands. It's     headquarter is at Amstelveen which is very close to its hub at Amsterdam Airport Schiphol. It is known to be the     oldest airline in the world which is running under its original name and the flights connect 90 destinations     across     the world. In this competitive world of aviation industry, the brand aims to be smarter than the rest and thus it     offers wide range of flexible choices to its travelers. Presenting reliability and a healthy dose of Dutch     pragmatism, this airline company has gained wide acceptance in Europe as well as the connecting countries. The     flights of this airline offer two classes of travel i.e., Business Class and Economy Class.",
+      "image": "https://k6u8v6y8.stackpathcdn.com/blog/wp-content/uploads/2014/04/klm-airlines.jpg",
+      "dest": "Bangalore, Chennai, Delhi, Hyderabad, Mumbai",
+      "site": "https://www.klm.com/"
+    },
+    {
+      "id": 18,
+      "name": "Virgin Atlantic",
+      "desc": "This British airline company is owned by the Virgin Group of Sir Richard Branson and connects 34 destinations     worldwide. Though the flights are mainly operated from London Heathrow and Gatwick, yet it has a secondary base at     Manchester, and a seasonal base at Glasgow as well. The flights of this airways offer three travel classes i.e.,     Economy, Premium Economy and Business Class. Each flight of this brand has excellent in-flight service which will     add to your comfortable fly and each seat is equipped with separate on-demand entertainment service. Some of the     new     flights have facilities to access television programmes, films, video games, music other fun elements via a     touch-screen control and a touch-sensitive screen.",
+      "image": "https://k6u8v6y8.stackpathcdn.com/blog/wp-content/uploads/2014/04/virgin-atlantic.jpg",
+      "dest": "Delhi and Mumbai",
+      "site": "https://www.virgin-atlantic.com/"
+    },
+    {
+      "id": 19,
+      "name": "Air France",
+      "desc": "If you are planning to fly to and from France, you should book your ticket in Air France. This French Flag     Carrier     Airline is a founding member of the Sky Team global airline alliance and one of the most reliable airlines in     France. The global hub of this airline is at Paris Charles de Gaulle Airport, with some other secondary hubs     across     the country. The flights of this airline have three travel classes- Economy, Premium Economy, Alize, Business and     La     Premiere (First). Not just the Business or La Premiere Class, the brand offers a wide range of services in Economy     Class as well. Delicious three course cold meal is served in mid-haul flights. Free alcoholic beverages including     Champagne are available in every flight.",
+      "image": "https://k6u8v6y8.stackpathcdn.com/blog/wp-content/uploads/2014/04/airfrance.jpg",
+      "dest": "New Delhi, Mumbai, Bangalore",
+      "site": "https://www.airfrance.com/"
+    },
+    {
+      "id": 20,
+      "name": "Asiana Airlines",
+      "desc": "One of the two major airlines of South Korea, Asiana Airlines is a global airline connecting 73 cities of the     world. The headquarter of this airline is in Asiana Town building of Seoul and its international hub is at Incheon     International Airport. The major concern of this airline is ensuring safety of travelers and offering the ultimate     comfort of flying on air. The flights of this airways offer five types of travel classes i.e., First Suite Class,     First Class, Business Smartium Class, Business Class and Travel Class. The in-flight services of this airline are     completely out of the box as each single class has unique facilities to enhance the comfort and convenience of     air-travel. To maximize your privacy, a few seats are attached with two sliding doors, which can be transformed to     cabins after closing the sliders.",
+      "image": "https://k6u8v6y8.stackpathcdn.com/blog/wp-content/uploads/2014/04/asiana-airlines.jpg",
+      "dest": "Delhi",
+      "site": "https://us.flyasiana.com/"
+    }
+  ]
+}

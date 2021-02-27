@@ -1,0 +1,240 @@
+{"Airports":[
+  {
+    "id": 1,
+    "name": "Visakhapatnam International Airport,Andhra Pradesh",
+    "desc": "Visakhapatnam International Airport is also referred to as Vizag Airport and covers an area of 350 acres.The airport also operates as an Indian Navy Air Base named INS Dega.",
+    "location": "Visakhapatnam International Airport is located at NH 16, Opposite VimanNagar, Visakhapatnam, Andhra Pradesh 530009",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/800px-Vizag_airport_terminal_full_view_20200222225036.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Vijayawada International Airport, Andhra Pradesh",
+    "desc": "Vijaywada International Airport serves the Andhra Pradesh Capital Region and covers an area of 537 acres.Interestingly, the airfield had been an airbase for World War II before being converted into a civilianairport.",
+    "location": "Vijayawada International Airport is located at NH 16, Gannavaram, AndhraPradesh 521102",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/800px-Vijayawada_Airport_2_28November_201829_20200222225922.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Veer Savarkar International Airport, Andaman and Nicobar Islands",
+    "desc": "The international flights from the Veer Savarkar International Airport are expected to begin their operationsfrom the month of July 2020. The airport is also known as the Port Blair Airport. The airport also operatesas an Indian Navy Air Base named INS Utkrosh.",
+    "location": "Veer Savarkar International Airport is located at Lamba Line, Port Blair,Andaman and Nicobar Islands 744103",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/800px-PortBlairAirport_20200222231039.JPG"
+  },
+  {
+    "id": 4,
+    "name": "Lokpriya Gopinath Bordoloi International Airport, Assam",
+    "desc": "The Lokpriya Gopinath Bordoloi International Airport is also referred to as the Guwahati Airport. It acts as the primaryinternational airport of the North-Eastern States of India, located in Borjhar. The 656 acres of the lavishairport is managed by the Airports Authority of India and serves as an Indian Air Force base. It providesinternational airways to Bangkok, Paro, Thailand, etc. by DrukAir and helicopter servicesto nearby places of visit.",
+    "location": "Lokpriya Gopinath Bordoloi International Airport is located at Borjhar, Guwahati,Assam 781015",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/Guwahati_Airport_security_check_area_20200302175610.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Gaya Airport, Bihar",
+    "desc": "Also referred to as the Bodhgaya Airport, Gaya Airport is primarily seasonal when it comes to internationaldestinations, and its main responsibility is to cater to pilgrims who are in search of Buddhist enlightenment.",
+    "location": "Gaya Airport is located at Sherghati Road, Gaya, Bihar 823004",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/Gaya_Airport_GAY_20200222232124.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Chandigarh Airport, Chandigarh",
+    "desc": "Chandigarh airport serves the Chandigarh Capital Region, Panchkula and Mohali. This too is adefence airport.",
+    "location": "Chandigarh Airport is located at New Civil Air Terminal, Sahibzada Ajit SinghNagar, Punjab 140306",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/Ixc-new-airport_2015_20200222232400.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Indira Gandhi International Airport, Delhi (T3)",
+    "desc": "The busiest airport in India, Indira Gandhi International Airport is also sometimes referred to as the New DelhiAirport. Built around travel functionality and successfully embodying India's heritage and culture, the IGIAirport is a stunning visual sight for travellers. The IGI Airport is also the sixth largest airport in theworld with a total capacity of 12.5 million passengers per year.",
+    "location": "Indira Gandhi International Airport is located at Palam, New Delhi, Delhi110037",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/800px-Delhi_T3_Int_Terminal_20200222233204.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Dabolim Airport, Goa",
+    "desc": "Dabolim Airport is also referred to as the Goa International Airport and covers an area of 249acres. The airport also operates as an Indian Navy Air Base named INS Hansa.",
+    "location": "Dabolim Airport is located at Airport Road, Dabolim, Goa 403801",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/800px-Goa-Vasco_03-2016_12_Dabolim_Airport_20200222233556.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Sardar Vallabhbhai Patel International Airport, Gujarat",
+    "desc": "The airport has three terminals. Terminal 1 is to handle passengers for domestic flights. Terminal 2 is theinternational terminal and has won an award for best Steel Structure at the 2009 edition of the NationalStructural Steel Design and Construction Awards. The third terminal is a cargo terminal. There are around fourteenairlines flying to and from the airport.",
+    "location": "Sardar Vallabhbhai Patel International Airport is located at Hansol, Ahmedabad, Gujarat 380003",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/800px-AMD1_20200222233915.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Surat International Airport, Gujarat",
+    "desc": "Location: Surat International Airport is located near the Sai Baba Temple, Surat, Dumas RoadGaviyer Village, Surat, Gujarat 395007",
+    "location": "Surat International Airport is located near the Sai Baba Temple, Surat, Dumas RoadGaviyer Village, Surat, Gujarat 395007",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/800px-Surat_Airport_20200222234554.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Sheikh ul-Alam International Airport, Jammu and Kashmir",
+    "desc": "Sheikh ul-Alam International Airport is also referred to as the Srinagar Airport. Originally the airport was usedonly the Indian Air Force. In 2005, the airport got an international status.",
+    "location": "Sheikh ul-Alam International Airport is located at Indira Gandhi Road,Humhama, Badgam, Srinagar, Jammu and Kashmir 190007",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/Lapangan_terbang_Srinagar_20200302175717.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Kempegowda International Airport, Karnataka",
+    "desc": "Kempegowda International Airport is more commonly referred to as the Bangalore Airport or the Bengaluru Airport. Theairport was constructed over a stretch of 400 acres of land about 40 kilometres north of the city near Devanahallivillage. It is associated with numerous flights with perpetual flights for London, Dubai, Hong Kong, Mauritius.",
+    "location": "Kempegowda International Airport is located at KIAL Road, Devanahalli, Bengaluru,Karnataka 560300",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/800px-Kempegowda-International-Airport-BLR_20200222235752.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Mangalore International Airport, Karnataka",
+    "desc": "Also, known as Bhajpe Airport, Mangalore airport serves the coastal city of Mangalore. The airport is locatedabout 13 kilometres northeast of the city, near Bhajpe.  It's just 16 kilometres from the central railwaystation making your travel fast and mobile. It is the second international airport homed in Karnataka.",
+    "location": "Mangalore International Airport is located at Bajpe Main Road, Kenjar HC, Karnataka574142",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/800px-Mangalore_Airport_New_Terminal_20200223000905.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Trivandrum International Airport, Kerala",
+    "desc": "Trivandrum airport serves numerous important destinations like Kollam, Nagercoil, Pathanamthitta, Tirunelveli and Kanyakumari other than Trivandrum city. Theinternational destinations serviced by the airport include the Middle Eastern Countries such as Sharjah, Muscat, Bahrain, Oman, Riyadh, Dubai, Kuala Lumpur, Singapore, Mahe, and Colombo.",
+    "location": "Trivandrum International Airport is located at Airport Road, Chacka,Thiruvananthapuram, Kerala 695008",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/6844470361_802d5532c6_b_20200223001554.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Cochin International Airport, Kerala",
+    "desc": "Cochin International Airport is located in Nedumbassery, about 25 km from the city centre. The airport wascrowd-funded by 10,000 NRIs and was developed under a public-private partnership. Cochin airport serves about63.86% of the total air travel of Kerala making it the busiest in Kerala.",
+    "location": "Cochin International Airport is located at Airport Road, Kochi, Kerala 683111",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/800px-Cochin_international_airport_terminal_20200223001939.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Kozhikode Calicut International Airport, Kerala",
+    "desc": "The Kozhikode Calicut International Airport is also known as the Karipur Airport, or simply, CalicutInternational Airport. It is well connected to a wide array of international destinations like Bahrain, Abu Dhabi, Doha, Dubai, Salalah, Muscat, Ras al-Khaimah and Kuwait.",
+    "location": "Kozhikode Calicut International Airport is located at Calicut Airport P.O.,Calicut Airport Road, Karipur, Kerala 673647",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/kozhikode-calicut-international-airport-ccj_20200223002524.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Kannur International Airport, Kerala",
+    "desc": "It is located 25 km towards the east of Kannur near Mattanur municipality. A public-private consortium, KannurInternational Airport Limited (KIAL), owns and manages the airport. Aside from operating as a commercialairport, an aviation academy will be set up by the Rajiv Gandhi Aviation Academy and Technology.",
+    "location": "Kannur International Airport is located at Mattannur, Kannur, Mattannur Road,Kerala 670702",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/1_11_0_0_20200223002820.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Devi Ahilya Bai Holkar Airport, Madhya Pradesh",
+    "desc": "Named after Maharani Ahilyabai, Devi Ahilyabai Holkar Airport is better known as Indore Airport and is situatedin its namesake city. The international airport was inaugurated recently in 2012 and has airlines - Silk Air,Air Arabia, Indian Airlines and Air India Express flights operational to Kuala Lumpur, Bangkok and Sharjah.",
+    "location": "Devi Ahilya Bai Holkar Airport is located at Devi Ahilyabai Holkar AirportArea, Indore, Madhya Pradesh 452005",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/IndoreAirportArrivals_20200302175843.JPG"
+  },
+  {
+    "id": 19,
+    "name": "Chhatrapati Shivaji Maharaj International Airport, Maharashtra",
+    "desc": "Chhatrapati Shivaji Maharaj International Airport is more commonly referred to as Mumbai Airport or Bombay Airport. The airporthas flights to almost all destinations across the world. Every day, there is a record of a minimum of 851 flightmovements. There are non-stop flights from Mumbai to New York, London, Dubai, Paris and Switzerland. Other flights are usuallyconnecting flights with a stop at the Delhi International airport.",
+    "location": "Chhatrapati Shivaji Maharaj International Airport is located at Mumbai,Maharashtra 400099",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/Mumbai_03-2016_114_Airport_international_terminal_interior_20200302175946.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Dr Babasaheb Ambedkar International Airport, Maharashtra",
+    "desc": "Dr Babasaheb Ambedkar International Airport is also referred to as the Nagpur Airport. The airport is located in Sonegaon,Nagpur. The airport has flights to Doha, Bangkok, Dubai, Singapore, Sharjah and Jeddah.",
+    "location": "Dr Babasaheb Ambedkar International Airport is located at Sonegaon, Nagpur,Maharashtra 440005",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/1024px-NagpurAirport_20200302180042.JPG"
+  },
+  {
+    "id": 21,
+    "name": "Pune International Airport, Pune",
+    "desc": "Pune International Airport is located approximately 10 km from Pune City. The international flights goto Abu Dhabi, Frankfurt and Dubai.",
+    "location": "Pune International Airport is located at New Airport Road, Pune InternationalAirport Area, Lohegaon, Pune, Maharashtra 411032",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/800px-Departure_Lounge_Pune_Airport_India_20200223004950.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Imphal International Airport, Manipur",
+    "desc": "Imphal Airport is also commonly referred to as the Bir Tikendrajit International Airport. This airport is beingupgraded.",
+    "location": "Imphal International Airport is located at Tipaimukh Road, Hiangtam Lamka,Imphal, Manipur 795140",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/Imphal_airport_20200223005711.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Biju Patnaik International Airport, Odisha",
+    "desc": "Biju Patnaik International Airport is more commonly referred to as the Bhubaneswar Airport. The only internationalairport of the state, it is named after famed aviator and freedom fighter Biju Patnaik. A new terminal (T1),having a capacity of about 4 million passengers and catering to domestic flights was inaugurated in 2013 and theolder terminal (T2) was refurbished to support international operations.",
+    "location": "Biju Patnaik International Airport is located at Airport Road, Bhubaneswar,Odisha 751020",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/T1_Biju_Patnaik_Airport_Bhubaneswar_Odisha_India-2_20200302180150.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Sri Guru Ram Das Jee International Airport, Punjab",
+    "desc": "Sri Guru Ram Das Jee International Airport is also referred to as the Amritsar International Airport. The airport hasregular flights to and from the United Kingdom, Singapore, UAE and Qatar.",
+    "location": "Sri Guru Ram Das Jee International Airport is located at Ajnala Road, Opposite HotelBlue Radisson, Raja Sansi, Punjab 143101",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/800px-Sri_Guru_Ram_Dass_Jee_International_Airport2C_Amritsar_20200223011401.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Jaipur International Airport, Rajasthan",
+    "desc": "Jaipur International Airport is located about 10 km from the city of Jaipur, in the suburb of Sanganer. It is thelargest airport in Rajasthan and was declared as the World's Best Airport (in the category of 2 to 5 millionpassengers per annum) in 2015 by Airports Council International.",
+    "location": "Jaipur International Airport is located at Airport Road, Sanganer, Jaipur, Rajasthan302017",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/Jaipur_Airport_20200223011817.JPG"
+  },
+  {
+    "id": 26,
+    "name": "Chennai International Airport, Tamil Nadu",
+    "desc": "Chennai International Airport serves the city of Chennai in Tamil Nadu. The airport handles more than 400aircraft movements in a day. It was the first airport in India to place international and domestic terminalsadjacent to each other.",
+    "location": "Chennai International Airport is located at Grand Southern Trunk Road, Meenambakkam,Chennai, Tamil Nadu 600027",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/800px-Chennai_airport_view_3_20200223012255.jpeg"
+  },
+  {
+    "id": 27,
+    "name": "Coimbatore International Airport, Tamil Nadu",
+    "desc": "Located at Peelamedu, about 13 km from the city centre, Coimbatore International Airport is the primary airportin the city of Coimbatore in Tamil Nadu.  It is the second-largest airport in Tamil Nadu, in terms ofpassenger traffic, after Chennai International Airport. It is also a growing hub for Cargo transportation.",
+    "location": "Coimbatore International Airport is located at Airport Road, Civil Aerodrome Post,Peelamedu, Tamil Nadu 641014",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/800px-Coimbatore_Airport_20200223013553.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Madurai International Airport, Tamil Nadu",
+    "desc": "Madurai airport is a major airport in the state which serves the city of Madurai along with nearby districts suchas Kodaikanal, Rameswaram and cities likeBangalore.",
+    "location": "Madurai International Airport is located at Airport Road, Madurai, Tamil Nadu 625022",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/800px-MaduraiAirport_20200223014301.JPG"
+  },
+  {
+    "id": 29,
+    "name": "Tiruchirappalli International Airport,Tamil Nadu",
+    "desc": "Serving Trichy in the state of Tamil Nadu, Tiruchirappalli International Airport is built on theTiruchirappalli and Pudukkottai National Highway. It is about 5 km from the city centre. It is the 2nd largestairport in international passenger traffic in Tamil Nadu. The airport covers an area of 702 acres.",
+    "location": "Tiruchirappalli International Airport is located at Trichy Airport Road, Tiruchirappalli, Tamil Nadu620007",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/800px-Tiruchirappalli_International_Airport_Front_View_20200223014737.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Rajiv Gandhi International Airport, Telangana",
+    "desc": "Rajiv Gandhi International Airport operates in the busy city of Hyderabad, Telangana. The airport is located inShamshabad, 20 kilometres south of the Hyderabad city. The flights taking off from this particular airportland in Goa, Delhi, Ahmedabad, Kolkata, Mumbai, Chicago, Dubai, Hong Kong, London, Singapore,Bangkok and other travel and business-oriented destinations.",
+    "location": "Rajiv Gandhi International Airport is located at Shamshabad, Hyderabad, Telangana 500409",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/800px-Rajiv_Gandhi_International_Airport_View_20200223015105.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Chaudhary Charan Singh International Airport, Uttar Pradesh",
+    "desc": "Chaudhary Charan Singh Airport is more commonly referred to as Lucknow Airport. The airport has twoterminals- Terminal 1, being used for International flights and Terminal 2, being used for domesticflights. It is the second busiest and largest airport in Central and Northern India after Indira GandhiInternational Airport.",
+    "location": "Chaudhary Charan Singh International Airport is located at Amausi, Lucknow,Uttar Pradesh 226009",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/CCS_International_Airport_20200223015455.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Lal Bahadur Shastri International Airport, Uttar Pradesh",
+    "desc": "Lal Bahadur Shastri International Airport is more commonly referred to by its former name, Varanasi Airport. The Airport is located inBabarpur which is 19 km from the city centre.",
+    "location": "Lal Bahadur Shastri International Airport is located at Varanasi District, Babatpur,Uttar Pradesh 221006",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/800px-Vns__20200223015901.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Netaji Subhash Chandra Bose International Airport, West Bengal",
+    "desc": "Netaji Subhash Chandra International Airport is also referred to as the Kolkata Airport, the Calcutta Airport, or theDumdum Airport. It covers an area of 2460 acres and is the largest airport in Eastern India. The airport hasflights to Bangladesh, China, Bhutan, Northeast India, Southeast Asia and manymore places.",
+    "location": "Netaji Subhash Chandra Bose International Airport is located at Jessore Road,Dumdum, Kolkata, West Bengal 700052",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/800px-NSCBI_International_airport_20200223020246.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Bagdogra Airport, West Bengal",
+    "desc": "The airport serves as a gateway to the towns of Mirik, Kalimpong, Kurseong, Sikkim and Darjeeling. The Druk Air flight fromBagdogra Airport connects West Bengal to the Suvarnabhumi Airport of Bangkok and also Paro International Airportin Bhutan.",
+    "location": "Bagdogra Airport is located at Airport Road, Bagdogra, Siliguri, West Bengal 734421",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/800px-Bagdogra_International_Airport_20200223020650.jpg"
+  }
+]}

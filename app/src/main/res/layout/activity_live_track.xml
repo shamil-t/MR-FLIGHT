@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LiveTrackActivity">
+
+    <RelativeLayout
+        android:id="@+id/headLay"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/live_activity"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        >
+        <TextView
+            android:id="@+id/headTxt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/live_map"
+            android:fontFamily="@font/poppins_bold"
+            android:textSize="14sp"
+            android:textColor="@color/white"
+            android:letterSpacing=".5"
+            tools:ignore="RelativeOverlap" />
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/infoBtn"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:background="@drawable/ic_baseline_info_24"
+            android:layout_centerVertical="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="15dp"
+            />
+    </RelativeLayout>
+
+    <WebView
+        android:id="@+id/webView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/headLay"
+        android:layout_above="@id/bottomNavigationView"
+        />
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/loadingLottie"
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:layout_marginTop="45dp"
+        app:lottie_rawRes="@raw/progress_bar"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+        />
+
+    <com.tbuonomo.morphbottomnavigation.MorphBottomNavigationView
+        android:id="@+id/bottomNavigationView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        app:menu="@menu/nav_menu"
+        app:backgroundTint="@color/live_activity"
+        app:morphCornerRadius="128dp"
+        app:morphItemRadius="64dp"
+        app:morphVerticalOffset="8dp"
+        style="@style/BottomNavigationView"
+        app:itemIconTint="@color/white"
+        app:itemTextColor="@color/white"
+        />
+</RelativeLayout>

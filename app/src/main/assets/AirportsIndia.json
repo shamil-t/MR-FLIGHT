@@ -1,0 +1,574 @@
+{
+  "Airports": [
+    {
+      "id": 1,
+      "name": "Delhi Indira Gandhi International Airport",
+      "code": "DEL",
+      "link": "https://www.airportia.com/india/indira-gandhi-international-airport/"
+    },
+    {
+      "id": 2,
+      "name": "Mumbai Chhatrapati Shivaji International Airport",
+      "code": "BOM",
+      "link": "https://www.airportia.com/india/chhatrapati-shivaji-international-airport/"
+    },
+    {
+      "id": 3,
+      "name": "Bangalore Kempegowda International Airport",
+      "code": "BLR",
+      "link": "https://www.airportia.com/india/bengaluru-international-airport/"
+    },
+    {
+      "id": 4,
+      "name": "Hyderabad Rajiv Gandhi International Airport",
+      "code": "HYD",
+      "link": "https://www.airportia.com/india/rajiv-gandhi-airport/"
+    },
+    {
+      "id": 5,
+      "name": "Kolkata International Airport",
+      "code": "CCU",
+      "link": "https://www.airportia.com/india/netaji-subhash-chandra-bose-international-airport/"
+    },
+    {
+      "id": 6,
+      "name": "Chennai International Airport",
+      "code": "MAA",
+      "link": "https://www.airportia.com/india/chennai-international-airport/"
+    },
+    {
+      "id": 7,
+      "name": "Ahmedabad International Airport",
+      "code": "AMD",
+      "link": "https://www.airportia.com/india/sardar-vallabhbhai-patel-international-airport/"
+    },
+    {
+      "id": 8,
+      "name": "Goa International Airport",
+      "code": "GOI",
+      "link": "https://www.airportia.com/india/dabolim-airport/"
+    },
+    {
+      "id": 9,
+      "name": "Cochin International Airport",
+      "code": "COK",
+      "link": "https://www.airportia.com/india/cochin-international-airport/"
+    },
+    {
+      "id": 10,
+      "name": "Guwahati International Airport",
+      "code": "GAU",
+      "link": "https://www.airportia.com/india/lokpriya-gopinath-bordoloi-international-airport/"
+    },
+    {
+      "id": 11,
+      "name": "Lucknow Chaudhary Charan Singh Airport",
+      "code": "LKO",
+      "link": "https://www.airportia.com/india/chaudhary-charan-singh-international-airport/"
+    },
+    {
+      "id": 12,
+      "name": "Jaipur Airport",
+      "code": "JAI",
+      "link": "https://www.airportia.com/india/jaipur-international-airport/"
+    },
+    {
+      "id": 13,
+      "name": "Patna Jay Prakash Narayan International Airport",
+      "code": "PAT",
+      "link": "https://www.airportia.com/india/lok-nayak-jayaprakash-airport/"
+    },
+    {
+      "id": 14,
+      "name": "Pune Airport",
+      "code": "PNQ",
+      "link": "https://www.airportia.com/india/pune-airport/"
+    },
+    {
+      "id": 15,
+      "name": "Chandigarh Airport",
+      "code": "IXC",
+      "link": "https://www.airportia.com/india/chandigarh-airport/"
+    },
+    {
+      "id": 16,
+      "name": "Bhubaneswar Biju Patnaik International Airport",
+      "code": "BBI",
+      "link": "https://www.airportia.com/india/biju-patnaik-airport/"
+    },
+    {
+      "id": 17,
+      "name": "Varanasi International Airport",
+      "code": "VNS",
+      "link": "https://www.airportia.com/india/lal-bahadur-shastri-airport/"
+    },
+    {
+      "id": 18,
+      "name": "Srinagar Airport",
+      "code": "SXR",
+      "link": "https://www.airportia.com/india/sheikh-ul-alam-airport/"
+    },
+    {
+      "id": 19,
+      "name": "Siliguri Bagdogra Airport",
+      "code": "IXB",
+      "link": "https://www.airportia.com/india/bagdogra-airport/"
+    },
+    {
+      "id": 20,
+      "name": "Visakhapatnam Airport",
+      "code": "VTZ",
+      "link": "https://www.airportia.com/india/vishakhapatnam-airport/"
+    },
+    {
+      "id": 21,
+      "name": "Raipur Swami Vivekananda Airport",
+      "code": "RPR",
+      "link": "https://www.airportia.com/india/raipur-airport/"
+    },
+    {
+      "id": 22,
+      "name": "Indore Devi Ahilyabai Holkar Airport",
+      "code": "IDR",
+      "link": "https://www.airportia.com/india/devi-ahilyabai-holkar-airport/"
+    },
+    {
+      "id": 23,
+      "name": "Ranchi Birsa Munda Airport",
+      "code": "IXR",
+      "link": "https://www.airportia.com/india/birsa-munda-airport/"
+    },
+    {
+      "id": 24,
+      "name": "Nagpur Dr. Babasaheb Ambedkar International Airport",
+      "code": "NAG",
+      "link": "https://www.airportia.com/india/dr.-babasaheb-ambedkar-international-airport/"
+    },
+    {
+      "id": 25,
+      "name": "Coimbatore International Airport",
+      "code": "CJB",
+      "link": "https://www.airportia.com/india/coimbatore-international-airport/"
+    },
+    {
+      "id": 26,
+      "name": "Jammu Airport",
+      "code": "IXJ",
+      "link": "https://www.airportia.com/india/jammu-airport/"
+    },
+    {
+      "id": 27,
+      "name": "Kozhikode Calicut International Airport",
+      "code": "CCJ",
+      "link": "https://www.airportia.com/india/calicut-international-airport/"
+    },
+    {
+      "id": 28,
+      "name": "Vijayawada Airport",
+      "code": "VGA",
+      "link": "https://www.airportia.com/india/vijayawada-airport/"
+    },
+    {
+      "id": 29,
+      "name": "Trivandrum International Airport",
+      "code": "TRV",
+      "link": "https://www.airportia.com/india/trivandrum-international-airport/"
+    },
+    {
+      "id": 30,
+      "name": "Mangalore Airport",
+      "code": "IXE",
+      "link": "https://www.airportia.com/india/mangalore-international-airport/"
+    },
+    {
+      "id": 31,
+      "name": "Amritsar International Airport",
+      "code": "ATQ",
+      "link": "https://www.airportia.com/india/sri-guru-ram-dass-jee-international,-amritsar-airport/"
+    },
+    {
+      "id": 32,
+      "name": "Dehradun Jolly Grant Airport",
+      "code": "DED",
+      "link": "https://www.airportia.com/india/dehradun-airport/"
+    },
+    {
+      "id": 33,
+      "name": "Kannur International Airport",
+      "code": "CNN",
+      "link": "https://www.airportia.com/india/chulman-airport/"
+    },
+    {
+      "id": 34,
+      "name": "Surat Airport",
+      "code": "STV",
+      "link": "https://www.airportia.com/india/surat-airport/"
+    },
+    {
+      "id": 35,
+      "name": "Bhopal Raja Bhoj Airport",
+      "code": "BHO",
+      "link": "https://www.airportia.com/india/bhopal-airport/"
+    },
+    {
+      "id": 36,
+      "name": "Imphal Airport",
+      "code": "IMF",
+      "link": "https://www.airportia.com/india/imphal-airport/"
+    },
+    {
+      "id": 37,
+      "name": "Belgaum Airport",
+      "code": "IXG",
+      "link": "https://www.airportia.com/india/belgaum-airport/"
+    },
+    {
+      "id": 38,
+      "name": "Madurai Airport",
+      "code": "IXM",
+      "link": "https://www.airportia.com/india/madurai-airport/"
+    },
+    {
+      "id": 39,
+      "name": "Tirupati Airport",
+      "code": "TIR",
+      "link": "https://www.airportia.com/india/tirupati-airport/"
+    },
+    {
+      "id": 40,
+      "name": "Leh Kushok Bakula Rimpochee Airport",
+      "code": "IXL",
+      "link": "https://www.airportia.com/india/leh-kushok-bakula-rimpochee-airport/"
+    },
+    {
+      "id": 41,
+      "name": "Agartala Airport",
+      "code": "IXA",
+      "link": "https://www.airportia.com/india/agartala-airport/"
+    },
+    {
+      "id": 42,
+      "name": "Gorakhpur Airport",
+      "code": "GOP",
+      "link": "https://www.airportia.com/india/gorakhpur-airport/"
+    },
+    {
+      "id": 43,
+      "name": "Udaipur Maharana Pratap Airport",
+      "code": "UDR",
+      "link": "https://www.airportia.com/india/maharana-pratap-airport/"
+    },
+    {
+      "id": 44,
+      "name": "Tiruchirappalli International Airport",
+      "code": "TRZ",
+      "link": "https://www.airportia.com/india/tiruchirapally-civil-airport/"
+    },
+    {
+      "id": 45,
+      "name": "Port Blair Veer Savarkar International Airport",
+      "code": "IXZ",
+      "link": "https://www.airportia.com/india/vir-savarkar-international-airport/"
+    },
+    {
+      "id": 46,
+      "name": "Hubli Airport",
+      "code": "HBX",
+      "link": "https://www.airportia.com/india/hubli-airport/"
+    },
+    {
+      "id": 47,
+      "name": "Allahabad Airport",
+      "code": "IXD",
+      "link": "https://www.airportia.com/india/allahabad-airport/"
+    },
+    {
+      "id": 48,
+      "name": "Dibrugarh Airport",
+      "code": "DIB",
+      "link": "https://www.airportia.com/india/dibrugarh-airport/"
+    },
+    {
+      "id": 49,
+      "name": "Rajahmundry Airport",
+      "code": "RJA",
+      "link": "https://www.airportia.com/india/rajahmundry-airport/"
+    },
+    {
+      "id": 50,
+      "name": "Mysore Airport",
+      "code": "MYQ",
+      "link": "https://www.airportia.com/india/mysore-airport/"
+    },
+    {
+      "id": 51,
+      "name": "Gandhinagar Airport",
+      "code": "ISK",
+      "link": "https://www.airportia.com/india/gandhinagar-airport/"
+    },
+    {
+      "id": 52,
+      "name": "Vadodara Airport",
+      "code": "BDQ",
+      "link": "https://www.airportia.com/india/vadodara-airport/"
+    },
+    {
+      "id": 53,
+      "name": "Jabalpur Airport",
+      "code": "JLR",
+      "link": "https://www.airportia.com/india/jabalpur-airport/"
+    },
+    {
+      "id": 54,
+      "name": "Jodhpur Airport",
+      "code": "JDH",
+      "link": "https://www.airportia.com/india/jodhpur-airport/"
+    },
+    {
+      "id": 55,
+      "name": "Aurangabad Airport",
+      "code": "IXU",
+      "link": "https://www.airportia.com/india/aurangabad-airport/"
+    },
+    {
+      "id": 56,
+      "name": "Gwalior Airport",
+      "code": "GWL",
+      "link": "https://www.airportia.com/india/gwalior-airport/"
+    },
+    {
+      "id": 57,
+      "name": "Silchar Airport",
+      "code": "IXS",
+      "link": "https://www.airportia.com/india/silchar-airport/"
+    },
+    {
+      "id": 58,
+      "name": "Dharamsala Gaggal Kangra Airport",
+      "code": "DHM",
+      "link": "https://www.airportia.com/india/kangra-airport/"
+    },
+    {
+      "id": 59,
+      "name": "Tuticorin Airport",
+      "code": "TCR",
+      "link": "https://www.airportia.com/india/tuticorin-airport/"
+    },
+    {
+      "id": 60,
+      "name": "Dimapur Airport",
+      "code": "DMU",
+      "link": "https://www.airportia.com/india/dimapur-airport/"
+    },
+    {
+      "id": 61,
+      "name": "Kandla Airport",
+      "code": "IXY",
+      "link": "https://www.airportia.com/india/kandla-airport/"
+    },
+    {
+      "id": 62,
+      "name": "Rajkot Airport",
+      "code": "RAJ",
+      "link": "https://www.airportia.com/india/rajkot-airport/"
+    },
+    {
+      "id": 63,
+      "name": "Kolhapur Airport",
+      "code": "KLH",
+      "link": "https://www.airportia.com/india/kolhapur-airport/"
+    },
+    {
+      "id": 64,
+      "name": "Cuddapah Airport",
+      "code": "CDP",
+      "link": "https://www.airportia.com/india/cuddapah-airport/"
+    },
+    {
+      "id": 65,
+      "name": "Nal Airport",
+      "code": "BKB",
+      "link": "https://www.airportia.com/india/nal-airport/"
+    },
+    {
+      "id": 66,
+      "name": "Kanpur Airport",
+      "code": "KNU",
+      "link": "https://www.airportia.com/india/kanpur-airport/"
+    },
+    {
+      "id": 67,
+      "name": "Jagdalpur Airport",
+      "code": "JGB",
+      "link": "https://www.airportia.com/india/jagdalpur-airport/"
+    },
+    {
+      "id": 68,
+      "name": "Kullu Bhuntar Airport",
+      "code": "KUU",
+      "link": "https://www.airportia.com/india/kullu-manali-airport/"
+    },
+    {
+      "id": 69,
+      "name": "North Lakhimpur Airport",
+      "code": "IXI",
+      "link": "https://www.airportia.com/india/north-lakhimpur-airport/"
+    },
+    {
+      "id": 70,
+      "name": "Porbandar Airport",
+      "code": "PBD",
+      "link": "https://www.airportia.com/india/porbandar-airport/"
+    },
+    {
+      "id": 71,
+      "name": "Shillong Airport",
+      "code": "SHL",
+      "link": "https://www.airportia.com/india/shillong-airport/"
+    },
+    {
+      "id": 72,
+      "name": "Jaisalmer Airport",
+      "code": "JSA",
+      "link": "https://www.airportia.com/india/jaisalmer-airport/"
+    },
+    {
+      "id": 73,
+      "name": "Nanded Airport",
+      "code": "NDC",
+      "link": "https://www.airportia.com/india/nanded-airport/"
+    },
+    {
+      "id": 74,
+      "name": "Aizawl Lengpui Airport",
+      "code": "AJL",
+      "link": "https://www.airportia.com/india/lengpui-airport/"
+    },
+    {
+      "id": 75,
+      "name": "Gaya Airport",
+      "code": "GAY",
+      "link": "https://www.airportia.com/india/gaya-airport/"
+    },
+    {
+      "id": 76,
+      "name": "Bhatinda Air Force Station Airport",
+      "code": "BUP",
+      "link": "https://www.airportia.com/india/bhatinda-air-force-station-airport/"
+    },
+    {
+      "id": 77,
+      "name": "Bhavnagar Airport",
+      "code": "BHU",
+      "link": "https://www.airportia.com/india/bhavnagar-airport/"
+    },
+    {
+      "id": 78,
+      "name": "Tezpur Airport",
+      "code": "TEZ",
+      "link": "https://www.airportia.com/india/tezpur-airport/"
+    },
+    {
+      "id": 79,
+      "name": "Jindal Airport",
+      "code": "VDY",
+      "link": "https://www.airportia.com/india/jindal-airport/"
+    },
+    {
+      "id": 80,
+      "name": "Pantnagar Airport",
+      "code": "PGH",
+      "link": "https://www.airportia.com/india/pantnagar-airport/"
+    },
+    {
+      "id": 81,
+      "name": "Ludhiana Airport",
+      "code": "LUH",
+      "link": "https://www.airportia.com/india/ludhiana-airport/"
+    },
+    {
+      "id": 82,
+      "name": "Agatti Airport",
+      "code": "AGX",
+      "link": "https://www.airportia.com/india/agatti-airport/"
+    },
+    {
+      "id": 83,
+      "name": "Diu Airport",
+      "code": "DIU",
+      "link": "https://www.airportia.com/india/diu-airport/"
+    },
+    {
+      "id": 84,
+      "name": "Shimla Airport",
+      "code": "SLV",
+      "link": "https://www.airportia.com/india/shimla-airport/"
+    },
+    {
+      "id": 85,
+      "name": "Adampur Airport",
+      "code": "AIP",
+      "link": "https://www.airportia.com/india/adampur-airport/"
+    },
+    {
+      "id": 86,
+      "name": "Bhuj Airport",
+      "code": "BHJ",
+      "link": "https://www.airportia.com/india/bhuj-airport/"
+    },
+    {
+      "id": 87,
+      "name": "Jorhat Airport",
+      "code": "JRH",
+      "link": "https://www.airportia.com/india/jorhat-airport/"
+    },
+    {
+      "id": 88,
+      "name": "Pathankot Air Force Station Airport",
+      "code": "IXP",
+      "link": "https://www.airportia.com/india/pathankot-air-force-station-airport/"
+    },
+    {
+      "id": 89,
+      "name": "Salem Airport",
+      "code": "SXV",
+      "link": "https://www.airportia.com/india/salem-airport/"
+    },
+    {
+      "id": 90,
+      "name": "Agra Airport",
+      "code": "AGR",
+      "link": "https://www.airportia.com/india/agra-airport/"
+    },
+    {
+      "id": 91,
+      "name": "Jamnagar Airport",
+      "code": "JGA",
+      "link": "https://www.airportia.com/india/jamnagar-airport/"
+    },
+    {
+      "id": 92,
+      "name": "Pasighat Airport",
+      "code": "IXT",
+      "link": "https://www.airportia.com/india/pasighat-airport/"
+    },
+    {
+      "id": 93,
+      "name": "Keshod Airport",
+      "code": "IXK",
+      "link": "https://www.airportia.com/india/keshod-airport/"
+    },
+    {
+      "id": 94,
+      "name": "Khajuraho Airport",
+      "code": "HJR",
+      "link": "https://www.airportia.com/india/khajuraho-airport/"
+    },
+    {
+      "id": 95,
+      "name": "Pondicherry Airport",
+      "code": "PNY",
+      "link": "https://www.airportia.com/india/pondicherry-airport/"
+    }
+  ]
+}

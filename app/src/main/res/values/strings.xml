@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MrFlight</string>
+    <string name="powerd">POWERED BY</string>
+    <string name="cb_media">CB-MEDIA</string>
+    <string name="live_tracking">LIVE</string>
+    <string name="check_status">STATUS</string>
+    <string name="flight_videos">VIDEOS</string>
+    <string name="flight_news">POSTS</string>
+    <string name="track_flight_flight_id">Search Airports (Name/Code)</string>
+    <string name="airports_in_the_world">List of Airports in India</string>
+    <string name="aiport_list_desc">List all the airports in India, city, airport name, and airport images</string>
+    <string name="home">HOME</string>
+    <string name="list_of_flights_in_the_world">List of Flights Available in india</string>
+    <string name="flight_list_desc">List all the flights available in India with country of-origin and images</string>
+    <string name="flight_videos_v">FLIGHT VIDEOS</string>
+    <string name="retry">Retry</string>
+    <string name="live_map">LIVE MAP</string>
+    <string name="head">head</string>
+    <string name="indian_destination_coverd_by">Indian Destination Coverd by</string>
+    <string name="location_of_the_airport">Location of the Airport</string>
+    <string name="mr_flight">MR FLIGHT</string>
+    <string name="click_on_the_flight">Click On the Flight Icon to get info about the Flight such as Coutry of Orgin,Speed of Flight,Altitute,Current location of the Flight</string>
+    <string name="check_flight_status">CHECK AIRPORT STATUS</string>
+    <string name="airport_name">Airport Name</string>
+    <string name="airport_code">Airport Code :</string>
+    <string name="flight_txt">FLIGHT :-</string>
+    <string name="from">FROM :-</string>
+    <string name="airline">AIRLINE :-</string>
+    <string name="schedule">SCHEDULE :-</string>
+    <string name="arrival">ARRIVAL :-</string>
+    <string name="arrivals">ARRIVALS</string>
+    <string name="departures">DEPARTURES</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

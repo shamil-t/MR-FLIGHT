@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item0"
+        android:title="@string/home"
+        android:icon="@drawable/home_icon" />
+
+    <item
+        android:id="@+id/item1"
+        android:title="@string/flight_videos"
+        android:icon="@drawable/videos_icon" />
+
+    <item
+        android:id="@+id/item2"
+        android:title="@string/check_status"
+        android:icon="@drawable/check_status_icon" />
+
+    <item
+        android:id="@+id/item3"
+        android:title="@string/flight_news"
+        android:icon="@drawable/news_icon" />
+    <item
+        android:id="@+id/item4"
+        android:title="@string/live_tracking"
+        android:icon="@drawable/live_track_icon"
+        />
+</menu>
